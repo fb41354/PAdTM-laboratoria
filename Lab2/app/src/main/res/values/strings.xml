@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="moj_tekst">Hello World!</string>
+    <string name="moj_tekst1">spoon</string>
+    <string name="moj_tekst2">knife</string>
+    <string name="moj_tekst3">fork</string>
+    <string name="moj_tekst4">plate</string>
+    <string name="moj_tekst5">cup</string>
+</resources>
